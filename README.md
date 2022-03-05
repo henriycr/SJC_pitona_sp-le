@@ -6,3 +6,8 @@ bus asmeņi kas naks no labas un kresas puses
 aizmugure(backround)bus mežs
 bus sekunžu skaititajs cik ilgi ir izdzīvojis
 bus main menu ekrāns kur varēs kautko mainīt
+
+2(nezinu)
+Kā lekt 
+kā uztaisīt kustošus asmeņus
+kā uzlikt taimeri
